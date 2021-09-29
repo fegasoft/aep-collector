@@ -1,6 +1,5 @@
 # AEP Collector
 Data collector service.
-FEGA
 
 ## Installation
 - Install Rust
